@@ -1,4 +1,3 @@
-# binchingo.github.io
 <style>
 body {
   background-image: url('img_girl.jpg');
